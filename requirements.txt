@@ -1,0 +1,5 @@
+# requirements.txt
+yfinance
+python-binance
+pandas
+numpy
