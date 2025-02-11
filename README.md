@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Sistema de Trading basado en Fibonacci
+=======
+ #Sistema de Trading basado en Fibonacci
+>>>>>>> origin/main
 
 Descripción
 
@@ -69,4 +73,7 @@ Si deseas contribuir, abre un issue o envía un pull request con mejoras.
 Contacto
 
 Para dudas o sugerencias, puedes contactarme a través de GitHub.#
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
