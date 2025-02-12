@@ -1,7 +1,5 @@
 # backtest.py
-
-
-print("El script backtest.py se está ejecutando...")
+from strategy import ejecutar_estrategia_patron_A
 import pandas as pd
 from strategy import ejecutar_estrategia_patron_A
 from data_fetcher import obtener_datos_historicos
