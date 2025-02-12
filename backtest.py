@@ -1,7 +1,7 @@
 # backtest.py
-from strategy import ejecutar_estrategia_patron_A
+
 import pandas as pd
-from strategy import ejecutar_estrategia_patron_A
+from estrategias.strategy import ejecutar_estrategia_patron_A
 from data_fetcher import obtener_datos_historicos
 from config import SYMBOL
 
